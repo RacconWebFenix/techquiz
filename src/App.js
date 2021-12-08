@@ -1,10 +1,8 @@
 import React from "react";
 
-
 const App = () => (
   <>
-  Aki OH !
-
+    <h1 style={{ fontFamily: "Despairs" }}>Aki OH !</h1>
   </>
 );
 
